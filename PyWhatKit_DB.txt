@@ -1,0 +1,508 @@
+Date: 12/11/2023
+Time: 13:32
+Phone Number: +918901641104
+Message: hi
+--------------------
+Date: 12/11/2023
+Time: 13:35
+Phone Number: +918901873789
+Message: hi
+--------------------
+Date: 12/11/2023
+Time: 13:37
+Phone Number: +918901873789
+Message: hi
+--------------------
+Date: 12/11/2023
+Time: 13:41
+Phone Number: +918901873789
+Message: hi
+--------------------
+Date: 12/11/2023
+Time: 13:51
+Phone Number: +918901873789
+Message: Bills\mohit.pdf
+--------------------
+Date: 12/11/2023
+Time: 14:6
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:8
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:14
+Phone Number: +919255278370
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:26
+Phone Number: +91PY_VAR3
+Image: harshit bansal.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:30
+Phone Number: +91PY_VAR3
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:35
+Phone Number: +91PY_VAR3
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:36
+Phone Number: +91PY_VAR3
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:45
+Phone Number: +919255278370
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:47
+Phone Number: +917015942546
+Image: harshit bansal.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 14:49
+Phone Number: +917015942546
+Message: discount - 344
+--------------------
+Date: 12/11/2023
+Time: 14:56
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 15:38
+Phone Number: +918053325888
+Image: chintu.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 15:44
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 15:47
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 12/11/2023
+Time: 23:10
+Phone Number: +918901873789
+Image: mohit.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 12:15
+Phone Number: +918901873789
+Image: rohit.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 12:34
+Phone Number: +918901873789
+Image: rohan.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 12:35
+Phone Number: +918901873789
+Image: rohan.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 12:37
+Phone Number: +918901873789
+Image: op.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 12:58
+Phone Number: +918901873789
+Image: Bills/self.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 13:13
+Phone Number: +918901873789
+Image: Bills/self1.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 13:14
+Phone Number: +918901873789
+Image: Bills/self1.png
+Caption: 
+--------------------
+Date: 13/11/2023
+Time: 13:22
+Phone Number: +918901873789
+Message: hello mohit !!
+--------------------
+Date: 13/11/2023
+Time: 13:23
+Phone Number: +918901873789
+Message: hello mohit !!
+--------------------
+Date: 15/11/2023
+Time: 14:30
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: 
+--------------------
+Date: 15/11/2023
+Time: 14:36
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: 
+--------------------
+Date: 15/11/2023
+Time: 14:59
+Phone Number: +918901873789
+Image: Bills/mohit1.png
+Caption: 
+--------------------
+Date: 15/11/2023
+Time: 15:0
+Phone Number: +918901873789
+Image: Bills/mohit2.png
+Caption: 
+--------------------
+Date: 15/11/2023
+Time: 15:2
+Phone Number: +918901641104
+Image: Bills/harsh.png
+Caption: 
+--------------------
+Date: 15/11/2023
+Time: 15:5
+Phone Number: +918901641104
+Image: Bills/harsh.png
+Caption: 
+--------------------
+Date: 16/11/2023
+Time: 14:23
+Phone Number: +918901873789
+Image: Bills/mohit2.png
+Caption: 
+--------------------
+Date: 16/11/2023
+Time: 14:39
+Phone Number: +918901873789
+Image: Bills/sohan.png
+Caption: 
+--------------------
+Date: 16/11/2023
+Time: 14:40
+Phone Number: +918901873789
+Image: Bills/sohan1.png
+Caption: 
+--------------------
+Date: 16/11/2023
+Time: 14:45
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 16/11/2023
+Time: 15:4
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 16/11/2023
+Time: 15:7
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 16/11/2023
+Time: 15:35
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 10:18
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 10:20
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 10:29
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 10:30
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 11:5
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 11:6
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 17/11/2023
+Time: 11:13
+Phone Number: +918901873789
+Image: Bills/mohit.png
+Caption: Thanks for shopping with us
+--------------------
+Date: 18/11/2023
+Time: 20:5
+Phone Number: +918901873789
+Image: Bills/mohit_18-11-23_20-05.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 18/11/2023
+Time: 20:8
+Phone Number: +918901873789
+Image: Bills/mohit_18-11-23_20-08.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 18/11/2023
+Time: 20:16
+Phone Number: +918901873789
+Image: Bills/kunal_18-11-23_20-16.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 11:17
+Phone Number: +919456852361
+Image: Bills/paras goyal_20-11-23_11-17.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 16:4
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_16-04.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:31
+Phone Number: +918901873789
+Image: Bills/savita_20-11-23_18-31.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:33
+Phone Number: +918901873789
+Image: Bills/unknown_20-11-23_18-33.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:37
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_18-37.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:39
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_18-39.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:40
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_18-39.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:42
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_18-42.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:45
+Phone Number: +918901873789
+Image: Bills/rohan_20-11-23_18-45.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:46
+Phone Number: +918901873789
+Image: Bills/rohit_20-11-23_18-46.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:47
+Phone Number: +918901873789
+Image: Bills/mohit_20-11-23_18-47.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 18:48
+Phone Number: +918901873789
+Image: Bills/sonam_20-11-23_18-48.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 20/11/2023
+Time: 19:7
+Phone Number: +918901873789
+Image: Bills/ashwin_20-11-23_19-07.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 10:38
+Phone Number: +919255278370
+Image: Bills/madan_21-11-23_10-38.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 10:40
+Phone Number: +919255278370
+Image: Bills/madan_21-11-23_10-39.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 10:43
+Phone Number: +919255278370
+Image: Bills/madan_21-11-23_10-39.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 10:45
+Phone Number: +919255278370
+Image: Bills\madan_21-11-23_10-39.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 11:6
+Phone Number: +919255278370
+Image: Bills\madan_21-11-23_11-06.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 11:13
+Phone Number: +919255278370
+Image: Bills\madan_21-11-23_11-13.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 21/11/2023
+Time: 11:20
+Phone Number: +919255278370
+Image: Bills\madan_21-11-23_11-20.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 22/11/2023
+Time: 12:16
+Phone Number: +918901873789
+Image: Bills\mohit_22-11-23_12-16.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 22/11/2023
+Time: 12:25
+Phone Number: +918901873789
+Image: Bills\manan_22-11-23_12-25.png
+Caption: 
+--------------------
+Date: 22/11/2023
+Time: 12:26
+Phone Number: +918901873789
+Image: Bills\naman_22-11-23_12-26.png
+Caption: 
+--------------------
+Date: 22/11/2023
+Time: 12:28
+Phone Number: +918901873789
+Image: Bills\ravi_22-11-23_12-28.png
+Caption: 
+--------------------
+Date: 22/11/2023
+Time: 12:31
+Phone Number: +918901873789
+Image: Bills\elvish_22-11-23_12-31.png
+Caption: 
+--------------------
+Date: 23/11/2023
+Time: 12:11
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_12-11.png
+Caption: 
+--------------------
+Date: 23/11/2023
+Time: 12:13
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_12-13.png
+Caption: 
+--------------------
+Date: 23/11/2023
+Time: 13:46
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_13-46.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 23/11/2023
+Time: 18:15
+Phone Number: +918901873789
+Image: Bills\xavier_23-11-23_18-15.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 23/11/2023
+Time: 19:56
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_19-56.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 23/11/2023
+Time: 21:46
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_19-56.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 23/11/2023
+Time: 21:49
+Phone Number: +918901873789
+Image: Bills\mohit_23-11-23_21-49.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 24/11/2023
+Time: 10:49
+Phone Number: +918901873789
+Image: Bills\mohit_24-11-23_10-49.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 26/11/2023
+Time: 20:7
+Phone Number: +918901873789
+Image: Bills\mohit_26-11-23_20-06.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
