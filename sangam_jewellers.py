@@ -385,7 +385,7 @@ def vill():
     Label(boot,text='NOTE : "उधार एक जादू है, हम देंगे और आप गायब हो जाएंगे।"',fg='red',font=("Times", "15", "bold")).place(x=0,y=400)
     
     tot=[]
-    z=120
+    z=105
     zz=205
     zzz=290
     m_c=375
