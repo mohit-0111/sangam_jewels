@@ -497,6 +497,7 @@ def vill():
     Button(boot,text='WAPP',command=combine_funcs(whatsapp)).place(x=600,y=470)
     Button(boot,text='MAIL',command=mail).place(x=650,y=470)
     Button(boot,text='PRINT',command=printbill).place(x=700,y=470)
+    
     boot.mainloop()
 
 
