@@ -439,7 +439,7 @@ def vill():
             
             
             
-            elif i4=='DS70':
+            else :
                 r=ntweight*i5*0.1
                 #lbr=r*0.20
                 #g=r*0.03
@@ -465,20 +465,18 @@ def vill():
         Label(boot,text='                      750 - 2%').place(x=650,y=420)
         
         def insert_to_db():
-            mycursor=mydb.cursor()
-            sql='INSERT INTO detail (Name,Phone,Item,Weight,Purity,Rate,Total,Metal,date,email) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
-            if i3==1:
-                val=(cname,pno,i[0],i[1],i[2],rate,f,'gold',cur_date,m)
-                mycursor.execute(sql, val)
-                mydb.commit()
-            elif i3==2:
-                if i[2]=='925' or i[2]=='T925':
-                    val=(cname,pno,i[0],i[1],i[2],ra,f,'silver',cur_date,m)
-                    mycursor.execute(sql, val)
+            mycursorr=mydb.cursor()
+            for i in lis:
+                sql='INSERT INTO detail (Name,Phone,Item,Weight,Purity,Rate,Total,Metal,date,email) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
+                if len(str(i5))==5:
+                    val=(cname,pno,i[0],i[2],i[4],rate,f,'gold',cur_date,m)
+                    mycursorr.execute(sql, val)
                     mydb.commit()
-                else:
-                    val=(cname,pno,i[0],i[1],i[2],rat,f,'silver',cur_date,m)
-                    mycursor.execute(sql, val)
+                elif len(str(i5))==3:
+                    
+                
+                    val=(cname,pno,i[0],i[2],i[4],rat,f,'silver',cur_date,m)
+                    mycursorr.execute(sql, val)
                     mydb.commit()
 
             
@@ -494,7 +492,7 @@ def vill():
     
     Button(boot,text='EXIT',command=boot.destroy).place(x=400,y=470)
     Button(boot,text='GENERATE',command=generatebill).place(x=500,y=470)
-    Button(boot,text='WAPP',command=combine_funcs(whatsapp)).place(x=600,y=470)
+    Button(boot,text='WAPP',command=combine_funcs(whatsapp,insert_to_db)).place(x=600,y=470)
     Button(boot,text='MAIL',command=mail).place(x=650,y=470)
     Button(boot,text='PRINT',command=printbill).place(x=700,y=470)
     
@@ -546,7 +544,7 @@ class added_items:
         else:
             lis.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get()))
             tree.insert('', 'end',text="1",values=(self.no,lis[-1][0],lis[-1][1],lis[-1][2],lis[-1][3],float(lis[-1][2])-float(lis[-1][3]),lis[-1][4],lis[-1][5]))
-            
+            #print(lis)
             self.no+=1
 
         

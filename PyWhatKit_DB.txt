@@ -512,3 +512,39 @@ Phone Number: +918901873789
 Image: Bills\mohit_27-11-23_17-52.png
 Caption: Thanks for shopping with us 😊👍
 --------------------
+Date: 29/11/2023
+Time: 13:1
+Phone Number: +918901873789
+Image: Bills\mohit_29-11-23_13-01.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 29/11/2023
+Time: 13:19
+Phone Number: +918901873789
+Image: Bills\mohit_29-11-23_13-19.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 29/11/2023
+Time: 14:46
+Phone Number: +918901873789
+Image: Bills\mohit_29-11-23_14-46.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 1/12/2023
+Time: 10:47
+Phone Number: +918901873789
+Image: Bills\madan_30-11-23_11-53.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 1/12/2023
+Time: 10:53
+Phone Number: +918901873789
+Image: Bills\madan_30-11-23_11-53.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 1/12/2023
+Time: 11:2
+Phone Number: +918901873789
+Image: Bills\madan_30-11-23_11-53.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
