@@ -236,12 +236,38 @@ def reset():
 
 
 #mail sending ---------------------------------------------------------------------------------
+
+def rq(t):
+    t=t.split(' ')
+    n=len(t)
+    s=['']*n
+    a=t[-1]
+    d={
+        'Jan':'1',
+        'Feb':'2',
+        'Mar':'3',
+        'Apr':'4',
+        'May':'5',
+        'Jun':'6',
+        'Jul':'7',
+        'Aug':'8',
+        'Sep':'9',
+        'Oct':'10',
+        'Nov':'11',
+        'Dec':'12'
+    }
+    for i in range(2,n):
+        s[i]=t[i-1]
+    s[0]=a
+    s[1]=d[t[0]]
+    return ' '.join(s)
+
 def whatsapp():
     x=os.listdir('Bills')
     z=[]
     q=[]
     for i in x:
-        z.append(time.ctime(os.path.getmtime(f'Bills\{i}'))[4:])
+        z.append(rq(time.ctime(os.path.getmtime(f'Bills\{i}'))[4:]))
         q.append(i)
     zp=list(zip(z,q))
     szp=sorted(zp)
@@ -249,11 +275,12 @@ def whatsapp():
     pywhatkit.sendwhats_image(f'+91{pn.get()}',f'Bills\\{szp[-1][1]}','Thanks for shopping with us 😊👍')
 
 def printbill():
-    x=os.listdir('Bills')
+    x=os.listdir('Bills') 
+    
     z=[]
     q=[]
     for i in x:
-        z.append(time.ctime(os.path.getmtime(f'Bills\{i}'))[4:])
+        z.append(rq(time.ctime(os.path.getmtime(f'Bills\{i}'))[4:]))
         q.append(i)
     zp=list(zip(z,q))
     szp=sorted(zp)
@@ -492,7 +519,7 @@ def vill():
     
     Button(boot,text='EXIT',command=boot.destroy).place(x=400,y=470)
     Button(boot,text='GENERATE',command=generatebill).place(x=500,y=470)
-    Button(boot,text='WAPP',command=combine_funcs(whatsapp,insert_to_db)).place(x=600,y=470)
+    Button(boot,text='WAPP',command=whatsapp).place(x=600,y=470)
     Button(boot,text='MAIL',command=mail).place(x=650,y=470)
     Button(boot,text='PRINT',command=printbill).place(x=700,y=470)
     
