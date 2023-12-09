@@ -231,6 +231,8 @@ def reset():
     purity.set('')
     w.set('')
     itemchoosen.set('')
+    q.set('')
+    lb.set(0)
     tree.delete(*tree.get_children())
     lis.clear()
 
@@ -519,7 +521,7 @@ def vill():
     
     Button(boot,text='EXIT',command=boot.destroy).place(x=400,y=470)
     Button(boot,text='GENERATE',command=generatebill).place(x=500,y=470)
-    Button(boot,text='WAPP',command=whatsapp).place(x=600,y=470)
+    Button(boot,text='WAPP',command=combine_funcs(whatsapp,insert_to_db)).place(x=600,y=470)
     Button(boot,text='MAIL',command=mail).place(x=650,y=470)
     Button(boot,text='PRINT',command=printbill).place(x=700,y=470)
     
@@ -537,7 +539,7 @@ class added_items:
     def destroy(self):
         try:
             
-            selected_item = tree.selection()[-1]
+            selected_item = tree.selection()[0]
             #print(selected_item)
             tree.delete(selected_item)
             lis.remove(lis[int(selected_item[3])-1])

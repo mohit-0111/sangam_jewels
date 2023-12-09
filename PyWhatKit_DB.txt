@@ -590,3 +590,21 @@ Phone Number: +918901873789
 Image: Bills\mohit_05-12-23_11-10.png
 Caption: Thanks for shopping with us 😊👍
 --------------------
+Date: 5/12/2023
+Time: 12:20
+Phone Number: +918901641104
+Image: Bills\harsh_05-12-23_12-20.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 5/12/2023
+Time: 14:37
+Phone Number: +918901873789
+Image: Bills\mohit_05-12-23_14-37.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 9/12/2023
+Time: 17:24
+Phone Number: +918901873789
+Image: Bills\mohit_09-12-23_17-24.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
