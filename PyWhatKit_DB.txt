@@ -608,3 +608,33 @@ Phone Number: +918901873789
 Image: Bills\mohit_09-12-23_17-24.png
 Caption: Thanks for shopping with us 😊👍
 --------------------
+Date: 14/12/2023
+Time: 19:15
+Phone Number: +918901873789
+Image: Bills\mohit_14-12-23_19-15.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 14/12/2023
+Time: 19:20
+Phone Number: +919255486518
+Image: Bills\madhav handa_14-12-23_19-20.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 22/12/2023
+Time: 11:57
+Phone Number: +917015942546
+Image: Bills\harshit bansal_22-12-23_11-57.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 2/1/2024
+Time: 14:10
+Phone Number: +918901873789
+Image: Bills\mohit_02-01-24_14-08.png
+Caption: Thanks for shopping with us 😊👍
+--------------------
+Date: 2/1/2024
+Time: 14:13
+Phone Number: +918901873789
+Image: Bills\mohit_02-01-24_14-08.png
+Caption: Thanks for shopping with us 😊👍
+--------------------

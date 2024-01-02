@@ -510,6 +510,7 @@ def vill():
 
             
             print('Items added successfully')
+            #messagebox.showinfo('added','Items Added Successfully',parent=boot)
         tot.append(int(f))
         y+=20
         why+=20
@@ -529,6 +530,7 @@ def vill():
 
 
 lis=[]
+lis1=[]
 listt=[]
 
 class added_items:
@@ -540,10 +542,14 @@ class added_items:
         try:
             
             selected_item = tree.selection()[0]
-            #print(selected_item)
-            tree.delete(selected_item)
-            lis.remove(lis[int(selected_item[3])-1])
+            #print(tree.item(selected_item))
+            
+            for i in lis:
+                if i[-1]==tree.item(selected_item)['text']:
+                    lis.remove(i)
             #self.no-=1
+            tree.delete(selected_item)
+            #print(lis)
         except:
             messagebox.showerror('error','No items to remove',parent=root)
 
@@ -571,9 +577,10 @@ class added_items:
         elif p.get()=='':
             messagebox.showerror('nopurity','please select purity of item',parent=root)
         else:
-            lis.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get()))
-            tree.insert('', 'end',text="1",values=(self.no,lis[-1][0],lis[-1][1],lis[-1][2],lis[-1][3],float(lis[-1][2])-float(lis[-1][3]),lis[-1][4],lis[-1][5]))
-            #print(lis)
+            lis1.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get()))
+            i=tree.insert('', 'end',text=f"{self.no}",values=(self.no,lis1[-1][0],lis1[-1][1],lis1[-1][2],lis1[-1][3],float(lis1[-1][2])-float(lis1[-1][3]),lis1[-1][4],lis1[-1][5]))
+            lis.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get(),tree.item(i)['text']))
+            #print(tree.item(i)['text'])
             self.no+=1
 
         
