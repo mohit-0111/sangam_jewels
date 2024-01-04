@@ -49,8 +49,8 @@ root.state('zoomed')
 root.title('jewellery billing')
 root.config(background='lavender')
 
-'''bkg=PhotoImage(file='bis_1_r.png')
-Label(root,image=bkg).place(x=0,y=293)'''
+bkg=PhotoImage(file='D:\\Users\\HP\\PycharmProjects\\tkintergui\\jewsoft\\photos\\img3.png')
+#Label(root,image=bkg,width=500,height=400).place(x=800,y=40)
 
 
 
@@ -80,6 +80,7 @@ Label(root,text='Enter Weight',bg='lavender',font=("Times", "10", "bold ")).plac
 Label(root,text='Enter Rate',bg='lavender',font=("Times", "10", "bold ")).place(x=355,y=220)
 Label(root,text='Labor',bg='lavender',font=("Times", "10", "bold ")).place(x=355,y=260)
 Label(root,text='purity',bg='lavender',font=("Times", "10", "bold ")).place(x=0,y=220)
+Label(root,text='polish',bg='lavender',font=("Times", "10", "bold ")).place(x=0,y=260)
 Label(root,text='GOLD: ',bg='lavender',font=("Times", "10", "bold ")).place(x=200,y=130)
 Label(root,text='SILVER: ',bg='lavender',font=("Times", "10", "bold ")).place(x=355,y=130)
 Label(root,text=x,fg='red',bg='lavender',font=("Times", "10", "bold ")).place(x=260,y=130)
@@ -113,6 +114,9 @@ sil_labor=Entry(root,width=8,textvariable=lb).place(x=440,y=260)
 lb.set(0)
 stpr=StringVar()
 stone_price=Entry(root,width=8,textvariable=stpr).place(x=285,y=260)
+plsh=StringVar()
+polish=Entry(root,width=8,textvariable=plsh).place(x=70,y=260)
+plsh.set(0.0)
 
 def check_weight():
     gett=w.get()
@@ -455,13 +459,14 @@ def vill():
         ntweight=float(i2)-float(i3)
         levar=i[6]
         gram=i[7]
+        palash=i[8]
         if gram!='':
             f=ntweight*int(gram)
             mking=0
         else:
             if (i4=='833' or i4=='750' or i4=='916'):
                 r=i5*0.0001*ntweight*(float(i4)+70)
-                mking=r*0.2
+                mking=i5*0.0001*(float(i4)+70)*float(palash)+int(levar)
                 #lbr=r*0.02
                 #g=r*0.03
                 f=r+mking
@@ -579,7 +584,7 @@ class added_items:
         else:
             lis1.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get()))
             i=tree.insert('', 'end',text=f"{self.no}",values=(self.no,lis1[-1][0],lis1[-1][1],lis1[-1][2],lis1[-1][3],float(lis1[-1][2])-float(lis1[-1][3]),lis1[-1][4],lis1[-1][5]))
-            lis.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get(),tree.item(i)['text']))
+            lis.append((itemchoosen.get(),q.get(),w.get(),st.get(),p.get(),v.get(),lb.get(),r.get(),plsh.get(),tree.item(i)['text']))
             #print(tree.item(i)['text'])
             self.no+=1
 
@@ -587,10 +592,10 @@ class added_items:
 obj=added_items()
     
 
-Button(root,text='GET BILL',command=vill ,width=7,height=2,bg='medium purple' ,fg='white').place(x=30, y=570)
-Button(root,text='ADD',command=obj.add,bg='medium purple',width=7,height=2,fg='white').place(x=310, y=570)
-Button(root,text='EXIT',command=root.destroy ,width=7,height=2 ,bg='Indian Red' ,fg='white').place(x=240, y=570)
-Button(root,text='RESET',command=reset ,width=7,height=2 ,bg='medium purple' ,fg='white').place(x=100, y=570)
-Button(root,text='Remove',command=obj.destroy ,width=7,height=2 ,bg='medium purple',fg='white' ).place(x=170, y=570)
+Button(root,text='GET BILL',command=vill ,width=7,height=2,bg='medium purple' ,fg='white').place(x=30, y=600)
+Button(root,text='ADD',command=obj.add,bg='medium purple',width=7,height=2,fg='white').place(x=310, y=600)
+Button(root,text='EXIT',command=root.destroy ,width=7,height=2 ,bg='Indian Red' ,fg='white').place(x=240, y=600)
+Button(root,text='RESET',command=reset ,width=7,height=2 ,bg='medium purple' ,fg='white').place(x=100, y=600)
+Button(root,text='Remove',command=obj.destroy ,width=7,height=2 ,bg='medium purple',fg='white' ).place(x=170, y=600)
 
 root.mainloop()
